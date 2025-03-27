@@ -1,32 +1,5 @@
 {
   "usuarios": [
-    {
-      "usuario": 1,
-      "nombre": "cri",
-      "correo": "h@j",
-      "carrera": "Ingeniería en Tics",
-      "modalidad": "Presencial"
-    },
-    {
-      "usuario": 2,
-      "nombre": "jessi",
-      "correo": "jessivilla657@gmail.com",
-      "carrera": "Ingeniería en Tics",
-      "modalidad": "Presencial"
-    },
-    {
-      "usuario": 3,
-      "nombre": "yomi",
-      "correo": "yomimsm@gmail.com",
-      "carrera": "Ingeniería Industrial",
-      "modalidad": "Distancia"
-    },
-    {
-      "usuario": 4,
-      "nombre": "jwjw",
-      "correo": "jaja@j",
-      "carrera": "Ingeniería Industrial",
-      "modalidad": "Presencial"
-    }
+
   ]
 }
