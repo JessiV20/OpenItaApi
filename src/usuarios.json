@@ -9,80 +9,24 @@
     },
     {
       "usuario": 2,
-      "nombre": "jj",
-      "correo": "j@j",
-      "carrera": "Ingeniería en Gestion Empresarial",
-      "modalidad": "Distancia"
+      "nombre": "jessi",
+      "correo": "jessivilla657@gmail.com",
+      "carrera": "Ingeniería en Tics",
+      "modalidad": "Presencial"
     },
     {
       "usuario": 3,
-      "nombre": "Cristian",
-      "correo": "cricri@gmail",
-      "carrera": "Ingeniería en Tics",
-      "modalidad": "Presencial"
+      "nombre": "yomi",
+      "correo": "yomimsm@gmail.com",
+      "carrera": "Ingeniería Industrial",
+      "modalidad": "Distancia"
     },
     {
       "usuario": 4,
-      "nombre": "aa",
-      "correo": "a@q",
+      "nombre": "jwjw",
+      "correo": "jaja@j",
       "carrera": "Ingeniería Industrial",
       "modalidad": "Presencial"
-    },
-    {
-      "usuario": 5,
-      "nombre": "yomi",
-      "correo": "yomi@gmail",
-      "carrera": "Ingeniería Industrial",
-      "modalidad": "Presencial"
-    },
-    {
-      "usuario": 6,
-      "nombre": "Jessi",
-      "correo": "lol@l",
-      "carrera": "Ingeniería Industrial",
-      "modalidad": "Presencial"
-    },
-    {
-      "usuario": 7,
-      "nombre": "j",
-      "correo": "j@jj",
-      "carrera": "Ingeniería en Tics",
-      "modalidad": "Presencial"
-    },
-    {
-      "usuario": 8,
-      "nombre": "jony",
-      "correo": "nomyaak@j",
-      "carrera": "Ingeniería en Tics",
-      "modalidad": "Presencial"
-    },
-    {
-      "usuario": 9,
-      "nombre": "vava",
-      "correo": "vava@s",
-      "carrera": "Ingeniería en Tics",
-      "modalidad": "Presencial"
-    },
-    {
-      "usuario": 10,
-      "nombre": "manuel",
-      "correo": "manuel@a",
-      "carrera": "Ingeniería en Tics",
-      "modalidad": "Presencial"
-    },
-    {
-      "usuario": 11,
-      "nombre": "Yomi",
-      "correo": "yomimsm@gmail.com",
-      "carrera": "Ingeniería en Tics",
-      "modalidad": "Presencial"
-    },
-    {
-      "usuario": 12,
-      "nombre": "Jessi",
-      "correo": "Jessi@gmail.com",
-      "carrera": "Ingeniería en Gestion Empresarial",
-      "modalidad": "Distancia"
     }
   ]
 }
